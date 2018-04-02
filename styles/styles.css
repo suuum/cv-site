@@ -1,0 +1,72 @@
+* {
+  font-family: "Montserrat", sans-serif;
+}
+
+.container {
+}
+
+.my-photo-container {
+  display: flex;
+  justify-content: center;
+  margin-top: 30px;
+}
+
+.my-img {
+  max-height: 250px;
+  max-width: 250px;
+}
+
+.nav-header {
+  background-color: #555498;
+  margin-bottom: 30px;
+}
+
+.card .card-image img {
+  min-height: 300px;
+}
+
+.w100 {
+  font-weight: 100;
+}
+
+.w200 {
+  font-weight: 200;
+}
+
+.w300 {
+  font-weight: 300;
+}
+
+.w400 {
+  font-weight: 400;
+}
+
+.w500 {
+  font-weight: 500;
+}
+
+.w600 {
+  font-weight: 600;
+}
+
+.brand-logo {
+  font-size: 36px;
+}
+
+.nav-item {
+  font-size: 24px;
+}
+
+.footer {
+ 
+
+
+}
+.footer-row{
+  background-color: #555498;
+  margin-bottom: 0;
+  padding: 30px 0;
+}
+.footer-div{
+  min-width: 70px;
+}
