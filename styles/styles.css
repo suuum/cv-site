@@ -4,7 +4,7 @@
 
 .background-img {
   background-image: url('images/background1.jpg');
-  background-size: 100% 60%;
+  background-size: 100% 75%;
   background-repeat: no-repeat;
 }
 
@@ -24,8 +24,8 @@
     margin-bottom: 30px;
 }
 
-.card .card-image img {
-    min-height: 300px;
+.card-image{
+  min-height: 219px;
 }
 
 .w100 {
